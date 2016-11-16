@@ -25,3 +25,5 @@ Kafka Security
   - access to specific topics on an individual or group level
   - Kerberos based authentication
   - Granular authorization via Apache Ranger
+
+Apache Storm Cluster Buzz Words------------------------NimbusZookeeperSupervisorBuzzwords for Storm processing Data:---------------------------TupleSpoutStreamsTopologiesBolts
